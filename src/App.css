@@ -1,0 +1,58 @@
+.input {
+  width: 400px;
+  display: flex;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 10px;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title{
+  padding: 10px;
+}
+.data{
+  display: flex;
+}
+.form{
+  width: 100%;
+  border: 1px solid red;
+  display: flex;
+}
+input{
+  padding-left: 30px;
+}
+
+.output{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.temp{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.task{
+  width: 150px;
+  border: 1px solid blue;
+}
+
+.heading{
+  font-size: 24px;
+}
+
+.text{
+  color: rgb(39, 37, 37);
+}
+
+
+
+
+
